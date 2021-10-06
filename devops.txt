@@ -1,0 +1,6 @@
+welcoe to devops pratice 
+
+
+git hub
+docker 
+ansible
