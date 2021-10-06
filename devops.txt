@@ -9,3 +9,6 @@ github
 team city 
 maven
 automation
+salinium
+c 
+c++
