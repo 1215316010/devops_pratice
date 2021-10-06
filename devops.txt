@@ -4,5 +4,8 @@ welcoe to devops pratice
 git hub
 docker 
 ansible
-read 
-write 
+git
+github
+team city 
+maven
+automation
